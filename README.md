@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of fajuu/contactbutton.** Not for installation: use [Packagist](https://packagist.org/packages/fajuu/contactbutton) or the [upstream repository](https://github.com/Fajuu/ContactButton).
 
-**0** versions archived · Latest: [`v3.0`](https://github.com/flarchive/fajuu-contactbutton/tree/archive/v3.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**3** versions archived · Latest: [`v3.0`](https://github.com/flarchive/fajuu-contactbutton/tree/archive/v3.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0` | 2019-01-24 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/fajuu-contactbutton/tree/archive/v1.0) |
+| `v2.0` | 2019-04-16 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/fajuu-contactbutton/tree/archive/v2.0) |
+| `v3.0` | 2019-04-21 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/fajuu-contactbutton/tree/archive/v3.0) |
 
 Catalog entry: [packages/fajuu-contactbutton.json](https://github.com/flarchive/archive-index/blob/main/packages/fajuu-contactbutton.json)
 
